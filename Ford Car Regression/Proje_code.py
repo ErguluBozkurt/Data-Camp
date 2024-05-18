@@ -28,7 +28,7 @@ Not : Modelini MEAN SQUARE ERROR fonksiyonu ile test edilmelidir.
 """
 
 #### Data Analysis
-data = pd.read_csv("Machine Learning/Codes/ford_price_pred.csv")
+data = pd.read_csv("ford_price_pred.csv")
 print(data.head())
 print(data.info())
 
